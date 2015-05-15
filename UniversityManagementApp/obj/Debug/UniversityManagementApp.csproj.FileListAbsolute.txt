@@ -1,0 +1,9 @@
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Form1.resources
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+F:\ASP-DotNet\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
